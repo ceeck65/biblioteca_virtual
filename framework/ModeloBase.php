@@ -66,7 +66,7 @@ class ModeloBase {
      */
     public function cerrarConnection()
     {
-        $conexion[$this->conexionActiva]->close();
+       // $conexion[$this->conexionActiva]->close();
     }
  
     /**
@@ -74,35 +74,40 @@ class ModeloBase {
      * @param int El identificador de la nueva conexión
      * @return void
      */
-    public function activarConexion( int $nueva )
+    public function activarConexion( $nueva )
     {
         $this->conexionActiva = $nueva;
     }
 
     
     
-    public static function consultar($tabla, array $consulta = NULL, array $condicion = NULL ){
+    public static function consultar($tabla, $consulta = null, $condicion = null){
         
-        if($consulta == NULL && $condicion == NULL) {
-            $consultar = "SELECT * FROM " . $tabla;
+        if($consulta  === null && $condicion === null) {
+            $consultar = "SELECT * FROM  {$tabla}";
             $resultado = self::conexion()->query($consultar); 
         }
         
-        if($condicion == NULL) {
-            $consultar = "SELECT * FROM " . $tabla;
-           $resultado = self::conexion()->query($consultar);
-           
-        }
-        if($condicion != NULL) {
-            $consultar = "SELECT * FROM " . $tabla . $condicion;
+        if($consulta  !== null && $condicion === null) {
+            $consultar = "SELECT * FROM {$tabla} {$consulta}";
             $resultado = self::conexion()->query($consultar);
         }
         
-        while($row = $resultado->fetch_assoc())
-        {
-            $rows[] = $row;
+      if($condicion != null) {
+            $consultar = "SELECT * FROM {$tabla} where {$condicion}";
+            $resultado = self::conexion()->query($consultar);
         }
-            return $rows;
+
+        if (is_bool($resultado)) {
+            $rows = $resultado;
+        } else {
+            while($row = $resultado->fetch_array())
+            {
+                $rows[] = $row;
+            }
+        }
+
+        return $rows;
     }
     
     
@@ -117,7 +122,8 @@ class ModeloBase {
     {
         $limite = ( $limite == '' ) ? '' : ' LIMIT ' . $limite;
         $eliminar = "DELETE FROM {$tabla} WHERE {$condicion} {$limite}";
-        self::conexion()->query( $eliminar );
+          
+       self::conexion()->query( $eliminar );
     }
  
     /**
@@ -141,7 +147,9 @@ class ModeloBase {
         {
             $actualizar .= "WHERE " . $condicion;
         }
-        $this->ejecutarConsulta( $actualizar );
+          // $this->ejecutarConsulta( $actualizar );
+ 
+		self::conexion()->query( $actualizar );
  
         return true;
  
@@ -173,6 +181,7 @@ class ModeloBase {
         $valores = substr($valores, 0, -1);
         
         $insertar = "INSERT INTO $tabla ({$campos}) VALUES({$valores})";
+        
         self::conexion()->query( $insertar );  
         return true;
     }
@@ -191,7 +200,7 @@ class ModeloBase {
         }
         else
         {
-            $this->ultimo = $resultado;
+           // $this->ultimo = $resultado;
         }
     }
  

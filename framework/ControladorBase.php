@@ -67,6 +67,26 @@ class ControladorBase
     }
 
 
+	public static function parametros($url)
+    {
+        $url = explode('/', $url);
+        return $url[5];
+    }
+    
+    public static function eliminarArchivos($carpeta, $archivo)
+    {
+		if(is_dir(RUTA_PUBLIC . $directorio . $carpeta . "/")){
+					$ruta =  RUTA_PUBLIC . $directorio . $carpeta . "/";		
+			if ($abreArchivo = opendir($ruta)){
+				while (($archivo = readdir($abreArchivo)) !== false){
+				  if($archivo == $archivo){
+						unlink($archivo);
+					}
+				}					
+			}
+		}
+	}
+
 
 }
 

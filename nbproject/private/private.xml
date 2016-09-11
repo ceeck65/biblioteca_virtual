@@ -2,6 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/var/www/html/proyecto/framework/ModeloBase.php</file>
+            <file>file:/var/www/html/proyecto/aplicacion/vistas/usuarios/index.php</file>
+            <file>file:/var/www/html/proyecto/aplicacion/vistas/libros/index.php</file>
+            <file>file:/var/www/html/proyecto/aplicacion/vistas/usuarios/registrar.php</file>
+            <file>file:/var/www/html/proyecto/aplicacion/controladores/usuarios.php</file>
+            <file>file:/var/www/html/proyecto/aplicacion/controladores/libros.php</file>
+        </group>
     </open-files>
 </project-private>

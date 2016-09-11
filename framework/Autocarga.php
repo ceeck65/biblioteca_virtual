@@ -8,6 +8,6 @@ require 'Vistas.php';
 require 'ModeloBase.php';
 require 'ControladorBase.php';
 
-require 'LibrosModelo.php';
+//require 'LibrosModelo.php';
 	
 

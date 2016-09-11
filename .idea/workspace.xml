@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/aplicacion/controladores/libros.php" line="79" />
+    <bookmark url="file://$PROJECT_DIR$/assets/css/styles.css" line="933" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ee35f01-a709-44fc-8e40-4f2a68b84612" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/ceeck65.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aplicacion/controladores/acceso.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aplicacion/vistas/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aplicacion/controladores/alumnos.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aplicacion/controladores/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/libros/analisis-y-diseno-de-algoritmos.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/libros/sistemas-operativos.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/controladores/autores.php" afterPath="$PROJECT_DIR$/aplicacion/controladores/autores.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/controladores/especialidades.php" afterPath="$PROJECT_DIR$/aplicacion/controladores/especialidades.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/controladores/inicio.php" afterPath="$PROJECT_DIR$/aplicacion/controladores/inicio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/controladores/libros.php" afterPath="$PROJECT_DIR$/aplicacion/controladores/libros.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/controladores/usuarios.php" afterPath="$PROJECT_DIR$/aplicacion/controladores/usuarios.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/autores/editar.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/autores/editar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/autores/index.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/autores/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/autores/registrar.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/autores/registrar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/autores/test.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/autores/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/especialidades/editar.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/especialidades/editar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/especialidades/index.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/especialidades/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/especialidades/registrar.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/especialidades/registrar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/index.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/libros/index.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/libros/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/libros/libros.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/libros/libros.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/libros/registro.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/libros/registro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/plantilla/index.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/plantilla/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/plantilla/plantilla.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/plantilla/plantilla.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/test/index.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/test/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/usuarios/editar.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/usuarios/editar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/usuarios/index.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/usuarios/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicacion/vistas/usuarios/registrar.php" afterPath="$PROJECT_DIR$/aplicacion/vistas/usuarios/registrar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/styles.css" afterPath="$PROJECT_DIR$/assets/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/base_datos.php" afterPath="$PROJECT_DIR$/base_datos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framework/Autocarga.php" afterPath="$PROJECT_DIR$/framework/Autocarga.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framework/ModeloBase.php" afterPath="$PROJECT_DIR$/framework/ModeloBase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/htaccess" afterPath="$PROJECT_DIR$/htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
+    </list>
+    <ignored path="proyecto.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="proyecto" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="especialidades.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aplicacion/controladores/especialidades.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registro.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aplicacion/vistas/libros/registro.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="64" column="61" selection-start-line="64" selection-start-column="61" selection-end-line="64" selection-end-column="61" />
+              <folding>
+                <marker date="1473541544113" expanded="true" signature="494:717" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="868:1868" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="887:1025" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="887:1868" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="1038:1382" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="1162:1363" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="1261:1340" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="1454:1868" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="1581:1868" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="1675:1868" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="2050:2255" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="2346:2737" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="2465:2737" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="2551:2737" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="2919:3113" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="3770:4048" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="3907:4029" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="4086:4341" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="4216:4322" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="4416:4763" ph="..." />
+                <marker date="1473541544113" expanded="true" signature="4534:4744" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="libros.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aplicacion/controladores/libros.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/aplicacion/vistas/autores/registrar.php" />
+        <option value="$PROJECT_DIR$/aplicacion/vistas/autores/index.php" />
+        <option value="$PROJECT_DIR$/aplicacion/vistas/especialidades/index.php" />
+        <option value="$PROJECT_DIR$/assets/js/scripts.js" />
+        <option value="$PROJECT_DIR$/assets/css/styles.css" />
+        <option value="$PROJECT_DIR$/assets/css/login.css" />
+        <option value="$PROJECT_DIR$/framework/Autocarga.php" />
+        <option value="$PROJECT_DIR$/aplicacion/vistas/usuarios/index.php" />
+        <option value="$PROJECT_DIR$/framework/ModeloBase.php" />
+        <option value="$PROJECT_DIR$/aplicacion/controladores/login.php" />
+        <option value="$PROJECT_DIR$/aplicacion/vistas/login.php" />
+        <option value="$PROJECT_DIR$/aplicacion/controladores/acceso.php" />
+        <option value="$PROJECT_DIR$/aplicacion/vistas/index.php" />
+        <option value="$PROJECT_DIR$/aplicacion/controladores/autores.php" />
+        <option value="$PROJECT_DIR$/aplicacion/vistas/plantilla/index.php" />
+        <option value="$PROJECT_DIR$/aplicacion/controladores/especialidades.php" />
+        <option value="$PROJECT_DIR$/aplicacion/vistas/especialidades/registrar.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/aplicacion/controladores/inicio.php" />
+        <option value="$PROJECT_DIR$/aplicacion/vistas/libros/libros.php" />
+        <option value="$PROJECT_DIR$/aplicacion/vistas/libros/registro.php" />
+        <option value="$PROJECT_DIR$/aplicacion/controladores/libros.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-1" />
+    <option name="width" value="1282" />
+    <option name="height" value="697" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyecto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyecto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyecto" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyecto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyecto" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aplicacion" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistas" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyecto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyecto" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aplicacion" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistas" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libros" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyecto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyecto" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aplicacion" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ee35f01-a709-44fc-8e40-4f2a68b84612" name="Default" comment="" />
+      <created>1472915508306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1472915508306</updated>
+      <workItem from="1472915517983" duration="87000" />
+      <workItem from="1472915640123" duration="26261000" />
+      <workItem from="1473002957879" duration="15191000" />
+      <workItem from="1473521486442" duration="19654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61193000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-1" width="1282" height="697" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17890625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aplicacion/controladores/inicio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/plantilla/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="100" column="86" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/dataTables.bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/Mensajes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/Vistas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/Configuracion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/ControladorBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/autores/registrar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/autores/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="1022" column="24" selection-start-line="1022" selection-start-column="24" selection-end-line="1022" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="298" column="23" selection-start-line="298" selection-start-column="23" selection-end-line="298" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/modelo/LibrosModelo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/Autocarga.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/ModeloBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding>
+            <marker date="1473525545934" expanded="true" signature="1964:1978" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1473525545934" expanded="true" signature="2155:2185" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1473525545934" expanded="true" signature="2331:2345" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1473525545934" expanded="true" signature="2331:2361" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1473525545934" expanded="true" signature="3163:3203" ph="DELETE FROM " />
+            <marker date="1473525545934" expanded="true" signature="4872:4921" ph="INSERT INTO ${$tabla}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/plantilla/plantilla.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/libros/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/usuarios/registrar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/usuarios/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/controladores/alumnos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/plantilla/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="33" column="73" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/especialidades/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="69" selection-start-line="0" selection-start-column="69" selection-end-line="0" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/controladores/usuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/controladores/autores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="31" column="61" selection-start-line="26" selection-start-column="8" selection-end-line="31" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/controladores/acceso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/controladores/inicio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/especialidades/registrar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="103" selection-start-line="28" selection-start-column="103" selection-end-line="28" selection-end-column="103" />
+          <folding>
+            <marker date="1473532223799" expanded="true" signature="119:202" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/libros/libros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/controladores/especialidades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/vistas/libros/registro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="64" column="61" selection-start-line="64" selection-start-column="61" selection-end-line="64" selection-end-column="61" />
+          <folding>
+            <marker date="1473541544113" expanded="true" signature="494:717" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="868:1868" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="887:1025" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="887:1868" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="1038:1382" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="1162:1363" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="1261:1340" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="1454:1868" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="1581:1868" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="1675:1868" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="2050:2255" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="2346:2737" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="2465:2737" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="2551:2737" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="2919:3113" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="3770:4048" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="3907:4029" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="4086:4341" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="4216:4322" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="4416:4763" ph="..." />
+            <marker date="1473541544113" expanded="true" signature="4534:4744" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplicacion/controladores/libros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

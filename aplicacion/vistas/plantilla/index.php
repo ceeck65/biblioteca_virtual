@@ -2,6 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Biblioteca Virtual</title>
 
@@ -9,12 +10,9 @@
         <link href="<?= BASE_URL ?>assets/css/datepicker3.css" rel="stylesheet">
         <link href="<?= BASE_URL ?>assets/css/styles.css" rel="stylesheet">
         <link rel="stylesheet" href="<?= BASE_URL ?>assets/font-awesome/css/font-awesome.min.css">
-
-
-
+        <link rel="stylesheet" href="<?= BASE_URL ?>assets/css/datatables.min.css">
         <!--Icons-->
         <script src="<?= BASE_URL ?>assets/js/lumino.glyphs.js"></script>
-
         <!--[if lt IE 9]>
         <script src="<?= BASE_URL ?>assets/js/html5shiv.js"></script>
         <script src="<?= BASE_URL ?>assets/js/respond.min.js"></script>
@@ -33,14 +31,13 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="<?= BASE_URL ?>"><span>Sistema de Menú</span>Administor</a>
+                    <a class="navbar-brand" href="<?= BASE_URL ?>"><span>Biblioteca Virtual Simón Planas</span></a>
                     <ul class="user-menu">
                         <li class="dropdown pull-right">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><svg class="glyph stroked male-user"><use xlink:href="#stroked-male-user"></use></svg> User <span class="caret"></span></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><svg class="glyph stroked male-user"><use xlink:href="#stroked-male-user"></use></svg>
+                                <?php  if(isset($_SESSION['nombre'])) : echo $_SESSION['nombre']; else : echo "Usuario"; endif; ?><span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu">
-                                <li><a href="#"><svg class="glyph stroked male-user"><use xlink:href="#stroked-male-user"></use></svg> Profile</a></li>
-                                <li><a href="#"><svg class="glyph stroked gear"><use xlink:href="#stroked-gear"></use></svg> Settings</a></li>
-                                <li><a href="#"><svg class="glyph stroked cancel"><use xlink:href="#stroked-cancel"></use></svg> Logout</a></li>
+                                <li><a href="<?= BASE_URL ?>index.php/acceso/cerrar-sesion"><svg class="glyph stroked cancel"><use xlink:href="#stroked-cancel"></use></svg> Cerrar Sesión</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -50,11 +47,6 @@
         </nav>
 
         <div id="sidebar-collapse" class="col-sm-3 col-lg-2 sidebar">
-            <form role="search">
-                <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Search">
-                </div>
-            </form>
             <ul class="nav menu">
                 <li class="active"><a href="<?= BASE_URL ?>index.php"><svg class="glyph stroked dashboard-dial"><use xlink:href="#stroked-dashboard-dial"></use></svg> Inicio</a></li>
                 <li class="parent ">
@@ -67,16 +59,13 @@
                                 <i class="fa fa-list"></i><use xlink:href="#stroked-chevron-right"></use></svg> Lista de libros
                             </a>
                         </li>
+                        <?php if($_SESSION['nivel'] == 1) : ?>
                         <li>
                             <a class="" href="<?= BASE_URL ?>index.php/libros/registrar_nuevo">
                                 <i class="fa fa-file"></i><use xlink:href="#stroked-chevron-right"></use></svg> Registrar Libro
                             </a>
                         </li>
-                        <li>
-                            <a class="" href="#">
-                                <svg class="glyph stroked chevron-right"><use xlink:href="#stroked-chevron-right"></use></svg> Sub Item 3
-                            </a>
-                        </li>
+                        <?php endif; ?>
                     </ul>
                 </li>
                 <li class="parent ">
@@ -85,15 +74,17 @@
                     </a>
                     <ul class="children collapse" id="sub-item-2">
                         <li>
-                            <a class="" href="<?= BASE_URL ?>index.php/libros">
+                            <a class="" href="<?= BASE_URL ?>index.php/autores">
                                 <i class="fa fa-list-ul"></i><use xlink:href="#stroked-chevron-right"></use></svg> Lista de Autores
                             </a>
                         </li>
+                        <?php if($_SESSION['nivel'] == 1) : ?>
                         <li>
-                            <a class="" href="<?= BASE_URL ?>index.php/libros/registrar_nuevo">
+                            <a class="" href="<?= BASE_URL ?>index.php/autores/registrar">
                                 <i class="fa fa-user-plus"></i><use xlink:href="#stroked-chevron-right"></use></svg> Registrar Autor
                             </a>
                         </li>
+                        <?php endif; ?>
                     </ul>
                 </li>
                 <li class="parent ">
@@ -106,13 +97,16 @@
                                 <i class="fa fa-list-ul"></i><use xlink:href="#stroked-chevron-right"></use></svg> Lista de Especialidades
                             </a>
                         </li>
+                        <?php if($_SESSION['nivel'] == 1) : ?>
                         <li>
                             <a class="" href="<?= BASE_URL ?>index.php/especialidades/registrar">
                                 <i class="fa fa-user-plus"></i><use xlink:href="#stroked-chevron-right"></use></svg> Registrar Especialidades
                             </a>
                         </li>
+                        <?php endif; ?>
                     </ul>
                 </li>
+                <?php if($_SESSION['nivel'] == 1) : ?>
                 <li class="parent ">
                     <a href="#">
                         <span data-toggle="collapse" href="#sub-item-4"><i class="fa fa-user"></i><use xlink:href="#stroked-chevron-down2"></use></svg> Usuarios <i class="fa fa-angle-double-down"></i></span> 
@@ -130,6 +124,7 @@
                         </li>
                     </ul>
                 </li>
+                <?php endif; ?>
                 <li role="presentation" class="divider"></li>
                </ul>
 
@@ -159,6 +154,8 @@
         <script src="<?= BASE_URL ?>assets/js/easypiechart.js"></script>
         <script src="<?= BASE_URL ?>assets/js/easypiechart-data.js"></script>
         <script src="<?= BASE_URL ?>assets/js/bootstrap-datepicker.js"></script>
+        <script src="<?= BASE_URL ?>assets/js/datatables.min.js"></script>
+        <script src="<?= BASE_URL ?>assets/js/scripts.js"></script>
         <script>
             $('#calendar').datepicker({
             });
